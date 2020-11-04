@@ -5,6 +5,8 @@ body{
 #contact{
   text-align:right;
   color:orange;
+#logo{
+  float:left;
 }
 h1{
   height:10px;
