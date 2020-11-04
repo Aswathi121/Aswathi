@@ -7,13 +7,12 @@ body{
   color:orange;
   font weight:bold;
   background color:white;
-#logo{
+#image{
   float:left;
 }
 h1{
   height:10px;
   color:blue;
-  text-align:right;
 }
 h2{
   height:10px;
