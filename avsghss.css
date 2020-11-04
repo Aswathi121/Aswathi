@@ -6,6 +6,10 @@ body{
   text-align:right;
   text-color:blue;
 }
-h1,h2{
+h1{
+  height:10px;
+  text-color:blue;
+}
+h2{
   height:10px;
 }
