@@ -1,10 +1,12 @@
 body{
-  width:100%;
+  width:80%;
   margin:auto;
 }
 #contact{
   text-align:right;
   color:orange;
+  font weight:bold;
+  background color:white;
 #logo{
   float:left;
   width:10%;
