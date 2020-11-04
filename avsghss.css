@@ -18,7 +18,9 @@ h2{
 }
 #mainmenu{
    text-align:left;
-   background-color: darkgreen;
+   background-color: dark green;
+   margin-top:20px;
+   padding:10px;
    color:white;
    font-weight:bold;
 }
