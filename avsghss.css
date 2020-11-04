@@ -17,10 +17,8 @@ h2{
   margin-top:20px;
 }
 #mainmenu{
-   text-align:left;
-   background-color:dark green;
-   margin-top:20px;
-   Padding:10px;
+   text-align:right;
+   background-color:green;
    color:white;
    font-weight:bold;
 }
