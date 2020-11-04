@@ -6,13 +6,12 @@ body{
   text-align:right;
   color:orange;
   font weight:bold;
-  background color:white;
-#image{
-  float:left;
+  background color:black;
 }
 h1{
   height:10px;
   color:blue;
+  font weight:bold;
 }
 h2{
   height:10px;
