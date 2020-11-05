@@ -9,7 +9,9 @@ body{
 }
 h1{
   height:10px;
-  color:blue;
+  color:white;
+  background-color:violet;
+  padding-10px;
   font weight:bold;
 }
 h2{
