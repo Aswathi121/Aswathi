@@ -7,6 +7,11 @@ body{
   color:orange;
   font-weight:bold;
 }
+#img{
+  float:left
+  width:20%;
+  margin-right:20px;
+}
 h1{
   height:10px;
   color:blue;
@@ -16,14 +21,4 @@ h2{
   height:10px;
   margin-top:20px;
 }
-#mainmenu{
-  text-align:left;
-  background-color:dark green;
-  margin-top:20px;
-  padding:10px;
-  color:white;
-  font-weight:bold;
-}
-#mainimage{
-   width:100%;
-}
+
